@@ -1,3 +1,3 @@
 # Sda_Project
 
-Code of the our project Vet Management System (Paws)
+Documentation,Presentation Slides and Code of the our project Vet Management System (Paws)
